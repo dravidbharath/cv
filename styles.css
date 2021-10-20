@@ -1,0 +1,20 @@
+body {
+  background-color: #d2f3e6;
+}
+h1 {
+  color: rgb(23, 109, 56);
+}
+h3 {
+  color: rgb(23, 109, 56);
+}
+hr {
+  border-style: dotted none none;
+  border-color: rgb(194, 194, 199);
+  border-width: 10px;
+  width: 5%;
+  height: 0px;
+}
+img {
+  height: 45%;
+  width: 45%;
+}
